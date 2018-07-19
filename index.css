@@ -1,7 +1,7 @@
 body {
 	background: #FFFFFF;
 	background-size: 100%;
-	font-family: 'Bad Script', cursive;
+	font-family: 'Helvetica', cursive;
 	color: #FFDD88;
 	margin: 20px 20px 40px 40px;
 	padding: 0;
@@ -15,17 +15,16 @@ h1 {
 	margin-left: 10%;
 	margin-right: 10%;
 	font-size: 140%;
-	text-shadow: black 0.1em 0.1em 0.2em;
 }
-.ingredient {
+.c1 {
 	font-size: 90%;
 	text-transform: capitalize;
 }
-.food {
+.c2 {
 	font-size: 160%;
 	text-transform: capitalize;
 }
-.price {
+.c3 {
 	font-size: 120%;
 	margin-left: 1em;
 }
